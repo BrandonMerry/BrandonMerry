@@ -95,7 +95,7 @@
 <br />
 <br /> -->
 
-TECHNOLOGIES
+<!-- TECHNOLOGIES -->
  
 <h2 align="center" color="#fbffff">Technologies</h2>
 <div align="center">
