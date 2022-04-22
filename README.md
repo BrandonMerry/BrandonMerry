@@ -138,7 +138,7 @@ TECHNOLOGIES
 					&nbsp
 					<img  src="https://github.com/BrandonMerry/Profile-readme/blob/main/GithubProfile/Tech%20Icons/VS%20Code.png" alt="VS Code" height="44" />  
 					&nbsp&nbsp&nbsp
-					<img  src="https://github.com/BrandonMerry/Profile-readme/blob/main/GithubProfile/Tech%20Icons/Microsoft%20Power%20bi.png" alt="PowerBi" height="44" />  	
+					<img  src="https://github.com/BrandonMerry/Profile-readme/blob/main/GithubProfile/Tech%20Icons/PowerBI.png" alt="PowerBi" height="44" />  	
 				</div>
 			</td>
 		</tr>
