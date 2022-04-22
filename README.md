@@ -112,6 +112,7 @@ TECHNOLOGIES
 					<img  src="https://github.com/BrandonMerry/Profile-readme/blob/main/GithubProfile/Tech%20Icons/html5.png" alt="HTML5" height="50" />
 						&nbsp&nbsp&nbsp
 					<img  src="https://github.com/BrandonMerry/Profile-readme/blob/main/GithubProfile/Tech%20Icons/JavaScript.png" alt="JavaScript" height="50" />  
+					&nbsp&nbsp&nbsp
 					<img  src="https://github.com/BrandonMerry/Profile-readme/blob/main/GithubProfile/Tech%20Icons/TypeScript.png" alt="TypeScript" height="50" />  
 					</div>
 			</td>
