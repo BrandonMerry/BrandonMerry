@@ -152,7 +152,7 @@
 
 <!-- CONTACT -->
 
-<h2 align="center" color="white">Let's connect!</h2>
+<h2 align="center" color="#fbffff">Let's connect!</h2>
 <p align="center">
 	<a href="https://twitter.com/BrandonMerryBKK" target="_blank">
 		<img
