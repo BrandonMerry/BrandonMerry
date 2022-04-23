@@ -174,3 +174,5 @@
 		/>
 	</a>
 </p>
+
+<p align="right" color="#fbffff">Inspired by <a href="https://github.com/Ethodeus">Sebastian</a></p>
