@@ -1,9 +1,8 @@
-<p align="Center">
-	Goal-oriented software engineer with a deep interest in analytics, data visualization, and green technology.
-</p>
-<p align="Center">
-    Excellent leadership, organization, and communication skills, with special experience developing small teams to achieve high-quality results in international environments.
-</p>
+# Hello!
+My name is Brandon Merry. I'm from the United States, living between Thailand and Portugal, and working as a software engineer.
+
+
+I am a quick learner with a passion for analytics, data visualization, and helping businesses grow. Over the last seven years working overseas, I have developed excellent leadership, organization, and communication skills, with experience building small teams that achieve high-quality results.
 <br />
 <!-- <p align="center">Please see <a href="https://sebastianospina.netlify.app">my website</a> for more information!</p>
 <br /> -->
