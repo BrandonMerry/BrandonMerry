@@ -1,5 +1,5 @@
 # Hello!
-My name is Brandon Merry. I'm from the United States, living between Thailand and Portugal, and working as a software engineer.
+My name is Brandon Merry. I'm a software engineer from the United States. 
 
 
 I am a quick learner with a passion for analytics, data visualization, and helping businesses grow. Over the last seven years working overseas, I have developed excellent leadership, organization, and communication skills, with experience building small teams that achieve high-quality results.
