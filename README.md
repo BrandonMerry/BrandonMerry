@@ -1,6 +1,6 @@
 # Hello!
 
-My name is Brandon Merry. I'm a software engineer specializing in web development from the United States. I am a quick learner with a passion for data analytics, technical SEO, and helping businesses grow. Over the last seven years working overseas, I have developed excellent leadership, organization, and communication skills, with experience building small teams that achieve high-quality results.
+I'm a software engineer specializing in web development. I am a quick learner with a passion for data analytics, technical SEO, and helping businesses grow. Over the last seven years working overseas, I have developed excellent leadership, organization, and communication skills, with experience building small teams that achieve high-quality results.
 
 
 I'm looking to bring my skills to a tech company with global reach, and I'm open to full-time opportunities where I can contribute, learn and grow.  
