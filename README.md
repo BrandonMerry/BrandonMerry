@@ -6,6 +6,33 @@ I'm a software engineer specializing in web development. I am a quick learner wi
 I'm looking to bring my skills to a tech company with global reach, and I'm open to full-time opportunities where I can contribute, learn and grow.  
 
 <br />
+
+<!-- CONTACT -->
+
+<h2 align="left" color="fbffff">Let's connect!</h2>
+<p align="left">
+	<a href="https://twitter.com/BrandonMerryBKK" target="_blank">
+		<img
+			src="https://github.com/BrandonMerry/Profile-readme/blob/main/GithubProfile/socialMedia_Icons/twitter.png"
+			width="40px"
+			style="padding-left: 10px"
+		/>
+	</a>
+	&nbsp&nbsp&nbsp
+	<a href="https://angel.co/u/brandon-merry-1" target="_blank">
+		<img
+			src="https://github.com/BrandonMerry/Profile-readme/blob/main/GithubProfile/socialMedia_Icons/Untitled%20design.png"
+			width="40px"
+		/>
+	</a>
+	&nbsp&nbsp&nbsp
+	<a href="https://www.linkedin.com/in/brandonmerry/" target="_blank">
+		<img
+			src="https://github.com/BrandonMerry/Profile-readme/blob/main/GithubProfile/socialMedia_Icons/li.png"
+			width="40px"
+		/>
+	</a>
+</p>
 <!-- <p align="center">Please see <a href="https://sebastianospina.netlify.app">my website</a> for more information!</p>
 <br /> -->
 
@@ -149,31 +176,6 @@ I'm looking to bring my skills to a tech company with global reach, and I'm open
 </br>
 </br>
 
-<!-- CONTACT -->
 
-<h2 align="center" color="fbffff">Let's connect!</h2>
-<p align="center">
-	<a href="https://twitter.com/BrandonMerryBKK" target="_blank">
-		<img
-			src="https://github.com/BrandonMerry/Profile-readme/blob/main/GithubProfile/socialMedia_Icons/twitter.png"
-			width="40px"
-			style="padding-left: 10px"
-		/>
-	</a>
-	&nbsp&nbsp&nbsp
-	<a href="https://angel.co/u/brandon-merry-1" target="_blank">
-		<img
-			src="https://github.com/BrandonMerry/Profile-readme/blob/main/GithubProfile/socialMedia_Icons/Untitled%20design.png"
-			width="40px"
-		/>
-	</a>
-	&nbsp&nbsp&nbsp
-	<a href="https://www.linkedin.com/in/brandonmerry/" target="_blank">
-		<img
-			src="https://github.com/BrandonMerry/Profile-readme/blob/main/GithubProfile/socialMedia_Icons/li.png"
-			width="40px"
-		/>
-	</a>
-</p>
 
 <p align="right" color="#fbffff">Inspired by <a href="https://github.com/Ethodeus">Sebastian</a></p>
