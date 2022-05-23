@@ -126,7 +126,7 @@ I'm looking to bring my skills to a tech company with global reach, and I'm open
 
 <!-- TECHNOLOGIES -->
  
-<h2 align="center" color="#fbffff">Technologies</h2>
+<h2 align="left" color="#fbffff">Technologies</h2>
 <div align="center">
 <table>
 	<tr>
