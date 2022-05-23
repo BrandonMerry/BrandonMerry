@@ -1,7 +1,8 @@
 # Hello!
 
-I am a Software Engineer Specializing in Full Stack Web Development.  I am a quick learner with a passion for data analytics, technical SEO, and helping businesses grow. Over the past eight years, coding has developed into a passion. I first started learning to code to automate repetitive tasks in the auditing department of my first job. I then learned SQL and Tableau to manage and visualize data for my employer's global supply chain. After traveling the world for a few years, I began working as a teacher, where I found opportunities to improve my workflow with code. During the last year, I decided to change careers and focus full-time on coding, specifically Web Development. I've dedicated my time to gaining proficiency in all intricacies of web development to better myself as a developer and problem solver. I can create beautiful, clean, responsive, and functional websites. 
+I am a Software Engineer specializing in full stack Web Development. I am a quick learner with a strong interest in data analytics, technical SEO, and helping businesses grow. During the past eight years, coding has developed into a passion. I first started learning to code to automate repetitive tasks in the auditing department. I then learned SQL and Tableau to manage and visualize data for a global supply chain. After traveling the world for a few years, I began working as a teacher, where I found opportunities to improve my workflow with code. Last year I decided to change careers and focus full-time on coding, specifically Web Development. I Have dedicated my time to gaining proficiency in all intricacies of web development to better myself as a developer and problem solver.
 
+I create beautiful, clean, responsive, and functional websites.
 
 I'm looking to bring my skills to a tech company with global reach, and I'm open to full-time opportunities where I can contribute, learn and grow.  
 
