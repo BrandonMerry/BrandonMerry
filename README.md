@@ -6,7 +6,7 @@ During the past eight years, I've found ways to incorporate coding into my work 
 
 I am competent in front-end technologies building static websites in HTML and CSS ( SASS/LESS) or dynamic web applications using JavaScript, TypeScript, React.JS, and TailwindCSS. 
 
-I am competent in back-end technologies using Node.Js, Mango.DB or PostgreSQL to create, code, and improve server-side applications and databases.
+I am competent in back-end technologies using Node.Js, MongoDB or PostgreSQL to create, code, and improve server-side applications and databases.
 
 I'm looking to bring my skills to a tech company with global reach, and I'm open to full-time opportunities where I can contribute, learn and grow.  
 
