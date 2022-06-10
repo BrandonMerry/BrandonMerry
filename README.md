@@ -171,16 +171,5 @@ I'm looking to bring my skills to a tech company with global reach, and I'm open
 				<div align="center">
 					&nbsp
 					<img  src="https://github.com/BrandonMerry/Profile-readme/blob/main/GithubProfile/Tech%20Icons/VS%20Code.png" alt="VS Code" height="44" />  
-					&nbsp&nbsp&nbsp
-					<img  src="https://github.com/BrandonMerry/Profile-readme/blob/main/GithubProfile/Tech%20Icons/PowerBI.png" alt="PowerBi" height="44" />  	
-				</div>
-			</td>
-		</tr>
-	</table>
-</div>
-</br>
-</br>
-
-
-
-<p align="right" color="#fbffff">Inspired by <a href="https://github.com/Ethodeus">Sebastian</a></p>
+					
+			
