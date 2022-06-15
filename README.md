@@ -1,14 +1,14 @@
-# Hello!
+# Hello I'm Brandon!
 
-I am a Software Engineer specializing in full stack Web Development. 
+<!-- about me  -->
 
-During the past eight years, I've found ways to incorporate coding into my work environment to be more efficient with my required tasks.
+<p align="left">
 
-I am competent in front-end technologies building static websites in HTML and CSS ( SASS/LESS) or dynamic web applications using JavaScript, TypeScript, React.JS, and TailwindCSS. 
-
-I am competent in back-end technologies using Node.Js, Express, MongoDB or PostgreSQL to create, code, and improve server-side applications and databases.
-
-I'm looking to bring my skills to a tech company with global reach, and I'm open to full-time opportunities where I can contribute, learn and grow.  
+Experienced leader with a history of developing small teams to achieve high-quality results in international environments. Skilled in solving problems with HTML, CSS, Javascript, React, NextJs Framework, and SQL. Enjoy working in a collaborative environment and believe in taking an active initiative to be a valuable part of any team. Willing to jump into any challenging situation to offer help or advice no matter the size of the problem. I believe in a growth mindset and feel that any task is achievable with the right amount of determination and technical innovation. 
+	
+<!-- <p align="center">Please see <a href="https://sebastianospina.netlify.app">my website</a> for more information!</p> -->
+<br />
+</p>
 
 <br />
 
@@ -16,30 +16,30 @@ I'm looking to bring my skills to a tech company with global reach, and I'm open
 
 <h2 align="left" color="fbffff">Let's connect!</h2>
 <p align="left">
-	<a href="https://twitter.com/BrandonMerryBKK" target="_blank">
-		<img
-			src="https://github.com/BrandonMerry/Profile-readme/blob/main/GithubProfile/socialMedia_Icons/twitter.png"
-			width="40px"
-			style="padding-left: 10px"
-		/>
-	</a>
-	&nbsp&nbsp&nbsp
-	<a href="https://angel.co/u/brandon-merry-1" target="_blank">
-		<img
-			src="https://github.com/BrandonMerry/Profile-readme/blob/main/GithubProfile/socialMedia_Icons/Untitled%20design.png"
-			width="40px"
-		/>
-	</a>
-	&nbsp&nbsp&nbsp
-	<a href="https://www.linkedin.com/in/brandonmerry/" target="_blank">
-		<img
-			src="https://github.com/BrandonMerry/Profile-readme/blob/main/GithubProfile/socialMedia_Icons/li.png"
-			width="40px"
-		/>
-	</a>
+<a href="https://twitter.com/Brandonmerrybkk"><img src="https://img.shields.io/badge/@BrandonMerry-white?&style=for-the-badge&logo=twitter&logoColor=black" height=25></a>
+<a href="https://www.codewars.com/users/BrandonMerry%20"><img src="https://img.shields.io/badge/Codewars-white?style=for-the-badge&logo=Codewars&logoColor=black" height=25></a>
+<a href="mailto:brandonmerry@protonmail.com"><img src="https://img.shields.io/badge/Brandon.Merry@protonmail.com-white?style=for-the-badge&logo=protonmail&logoColor=black" height=25></a>
+<a href="https://www.linkedin.com/in/brandonmerry/"><img src="https://img.shields.io/badge/Brandon_Merry-white?style=for-the-badge&logo=linkedin&logoColor=black" height=25></a>	
 </p>
-<!-- <p align="center">Please see <a href="https://sebastianospina.netlify.app">my website</a> for more information!</p>
-<br /> -->
+
+
+<!-- TECHNOLOGIES -->
+
+<h2 align="left">Technical Skills</h2>
+<p align="left">
+<img src="https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=black" height=25>
+<img src="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=black" height=25>
+<img src="https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=black" height=25>
+<img src="https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=black" height=25>
+<img src="https://img.shields.io/badge/Typescript-white?style=for-the-badge&logo=figma&logoColor=black" height=25>
+<img src="https://img.shields.io/badge/NextJS-white?style=for-the-badge&logo=firebase&logoColor=black" height=25>
+<img src="https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=nodedotjs&logoColor=black" height=25>
+<img src="https://img.shields.io/badge/Express.js-white?style=for-the-badge&logo=express&logoColor=black" height=25>
+<img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=black" height=25>
+<img src="https://img.shields.io/badge/jQuery-white?style=for-the-badge&logo=jquery&logoColor=black" height=25>
+<img src="https://img.shields.io/badge/Visual_Studio-white?style=for-the-badge&logo=visual%20studio&logoColor=black" height=25>
+<img src="https://img.shields.io/badge/GIT-white?style=for-the-badge&logo=git&logoColor=black" height=25>
+</p>
 
 <!-- PROJECTS
 
@@ -127,49 +127,20 @@ I'm looking to bring my skills to a tech company with global reach, and I'm open
 </div>
 <br />
 <br /> -->
-
-<!-- TECHNOLOGIES -->
- 
-<h2 align="left" color="#fbffff">Technologies</h2>
+ <!--Analytics & Data-->
+<h2 align="left">Data & Analytics</h2>
 <div align="center">
 <table>
-	<tr>
-		<td valign="top" width="33.3333%">
-			<h3 align="center" color="white">Frontend</h2>
-			<br>
-				<div align="center" >  
-					<img src="https://github.com/BrandonMerry/Profile-readme/blob/main/GithubProfile/Tech%20Icons/React.png" alt="React" height="50" />
-						&nbsp&nbsp&nbsp
-					<img  src="https://github.com/BrandonMerry/Profile-readme/blob/main/GithubProfile/Tech%20Icons/css3.png" alt="CSS3" height="50" />
-						&nbsp&nbsp&nbsp
-					<img  src="https://github.com/BrandonMerry/Profile-readme/blob/main/GithubProfile/Tech%20Icons/html5.png" alt="HTML5" height="50" />
-						&nbsp&nbsp&nbsp
-					<img  src="https://github.com/BrandonMerry/Profile-readme/blob/main/GithubProfile/Tech%20Icons/JavaScript.png" alt="JavaScript" height="50" />  
-					&nbsp&nbsp&nbsp
-					<img  src="https://github.com/BrandonMerry/Profile-readme/blob/main/GithubProfile/Tech%20Icons/TypeScript.png" alt="TypeScript" height="50" />  
-					</div>
-			</td>
-			<td valign="top" width="33.3333%">
-				<h3 align="center" color="fbffff">Backend</h2>
-				<br>
-				<div align="center">
-					&nbsp
-					<img  src="https://github.com/BrandonMerry/Profile-readme/blob/main/GithubProfile/Tech%20Icons/MangoDB%20.png" alt="MongoDB" height="50" />  
-					&nbsp&nbsp&nbsp
-					<img  src="https://github.com/BrandonMerry/Profile-readme/blob/main/GithubProfile/Tech%20Icons/NodeJS.png" alt="Node.js" height="50" /> 
-					&nbsp&nbsp&nbsp
-					<img  src="https://github.com/BrandonMerry/Profile-readme/blob/main/GithubProfile/Tech%20Icons/expressjs.png" alt="Express.js" height="50" />
-					&nbsp&nbsp&nbsp
-					<img  src="https://github.com/BrandonMerry/Profile-readme/blob/main/GithubProfile/Tech%20Icons/SQL.png" alt="PostgreSQL " height="50" />
-					<br>
-					<br>	
-				</div>
-			</td>
-			<td valign="top" width="33.3333%">	
-				<h3 align="center" color="fbffff">Other Software</h2>
-				<br>
-				<div align="center">
-					&nbsp
-					<img  src="https://github.com/BrandonMerry/Profile-readme/blob/main/GithubProfile/Tech%20Icons/VS%20Code.png" alt="VS Code" height="44" />  
-					
+<tr>
+<td width="50%">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=brandonmerry&hide_border=true&background=FFFFFF00&fire=white&currStreakLabel=white&ring=white&currStreakNum=white&sideNums=white&sideLabels=white&dates=999c9e&stroke=E0E0E04E">
+</td>
+<td width="50%">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=brandonmerry&bg_color=FFFFFF00&hide_border=true&text_color=FFFFFF&title_color=FFFFFF&include_all_commits=true&count_private=true">
+</table>
+</div>
+<img src="https://activity-graph.herokuapp.com/graph?username=brandonmerry&bg_color=FFFFFF00&color=FFFFFF&line=FFFFFF&point=FFFFFF&hide_border=true&title_color=FFFFFF">
+
+ 
+
 			
