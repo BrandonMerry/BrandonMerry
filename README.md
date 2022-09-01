@@ -4,9 +4,11 @@
 
 <p align="left">
 
-Experienced leader with a history of developing small teams to achieve high-quality results in international environments. Skilled in solving problems with HTML, CSS, Javascript, React, NextJs Framework, and SQL. Enjoy working in a collaborative environment and believe in taking an active initiative to be a valuable part of any team. Willing to jump into any challenging situation to offer help or advice no matter the size of the problem. I believe in a growth mindset and feel that any task is achievable with the right amount of determination and technical innovation. 
-	
-<!-- <p align="center">Please see <a href="https://sebastianospina.netlify.app">my website</a> for more information!</p> -->
+Software engineer experienced in developing small teams to achieve high-quality results in international environments. I have a proven track record of creating and implementing successful front and back-end web applications. I am skilled in solving problems with HTML, CSS, Javascript, React, NextJs, and SQL. I routinely utilize software engineering methodologies like Agile, Waterfall, and DevOps.
+
+I enjoy working in a collaborative environment and believe in taking an active initiative to be a valuable part of any team. I am willing to jump into any challenging situation to offer help or advice, no matter the size of the problem. I believe in a growth mindset and feel that any task is achievable with the right amount of determination and technical innovation.
+
+<p align="center">Please see <a href="https://www.brandonmerry.com/">my website</a> for more information!</p>
 <br />
 </p>
 
