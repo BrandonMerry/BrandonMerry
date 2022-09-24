@@ -4,9 +4,9 @@
 
 <p align="left">
 
-Software engineer experienced in developing small teams to achieve high-quality results in international environments. I have a proven track record of creating and implementing successful front and back-end web applications. I am skilled in solving problems with HTML, CSS, Javascript, React, NextJs, and SQL. I routinely utilize software engineering methodologies like Agile, Waterfall, and DevOps.
+Results-oriented Software Engineer and Freelance Web Developer. Passionate about web performance and user experience. Dedicated to superior customer service at all levels, from the first meeting with a client to the website maintenance after launch.  
 
-I enjoy working in a collaborative environment and believe in taking an active initiative to be a valuable part of any team. I am willing to jump into any challenging situation to offer help or advice, no matter the size of the problem. I believe in a growth mindset and feel that any task is achievable with the right amount of determination and technical innovation.
+Skilled in solving problems, and knowledgeable in various programming languages and frameworks. (HTML, CSS, Javascript, React, NextJs, and SQL) I routinely utilize software engineering methodologies such as Agile, and Waterfall.
 
 <p align="center">Please see <a href="https://www.brandonmerry.com/">my website</a> for more information!</p>
 <br />
