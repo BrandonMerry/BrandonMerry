@@ -4,9 +4,9 @@
 
 <p align="left">
 
-Results-oriented Software Engineer and Freelance Web Developer. Passionate about web performance and user experience. Dedicated to superior customer service at all levels, from the first meeting with a client to the website maintenance after launch.  
+Detail-oriented software engineer passionate about creating websites with seamless user experience to help businesses grow and better connect with their customers. 
 
-Skilled in solving problems, and knowledgeable in various programming languages and frameworks. (HTML, CSS, Javascript, React, NextJs, and SQL) I routinely utilize software engineering methodologies such as Agile, and Waterfall.
+I thrive in collaborative environments, utilizing HTML, CSS, Javascript, React, NextJS, Node, Express, MongoDB, SQL, and WordPress to deliver high-quality solutions for complex problems. Approaching every challenge with determination and innovation and taking an active role in ensuring project success.
 
 <p align="center">Please see <a href="https://www.brandonmerry.com/">my website</a> for more information!</p>
 <br />
