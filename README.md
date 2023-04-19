@@ -20,7 +20,7 @@ I thrive in collaborative environments, utilizing HTML, CSS, Javascript, React, 
 <p align="left">
 <a href="https://twitter.com/Brandonmerrybkk"><img src="https://img.shields.io/badge/@BrandonMerry-white?&style=for-the-badge&logo=twitter&logoColor=black" height=25></a>
 <a href="https://www.codewars.com/users/BrandonMerry%20"><img src="https://img.shields.io/badge/Codewars-white?style=for-the-badge&logo=Codewars&logoColor=black" height=25></a>
-<a href="mailto:brandonmerry@protonmail.com"><img src="https://img.shields.io/badge/Brandon.Merry@protonmail.com-white?style=for-the-badge&logo=protonmail&logoColor=black" height=25></a>
+<a href="mailto:brandon.l.merry@gmail.com"><img src="https://img.shields.io/badge/Brandon.l.Merry@gmail.com-white?style=for-the-badge&logo=protonmail&logoColor=black" height=25></a>
 <a href="https://www.linkedin.com/in/brandonmerry/"><img src="https://img.shields.io/badge/Brandon_Merry-white?style=for-the-badge&logo=linkedin&logoColor=black" height=25></a>	
 </p>
 
